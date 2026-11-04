@@ -1,13 +1,40 @@
-# 💫 About Me:
-Applied Data Scientist | Computer Science @ MacEwan University<br><br>Passionate about transforming raw data into strategic insights through Statistical Analysis, Machine Learning, and Financial Modeling. Currently bridging the gap between technical data engineering and business-driven analytics.<br>+4<br><br>Technical Toolkit:<br>* Languages: Python (Pandas, NumPy, Scikit-learn), SQL,.<br>* Analytics: Predictive Analysis, Regression/Classification, and Time-Series Forecasting.<br>* Data Engineering: ETL Pipelines, Relational Databases, and Large-Scale Data Manipulation.<br>* Visualization: Power BI, Tableau (Dashboards), and Advanced Excel.<br>+4<br><br>Academic & Leadership:<br>* Specializations: Cybersecurity & Marketing.<br>* Leadership: Director of Events @ MacEwan Data Analytics Club.<br>* Impact: Reduced research turnaround by 50% via workflow automation.<br>+2<br><br>Currently Deep-Diving: Software Engineering (CMPT 395) and Database Management (CMPT 291).
+# AI & Software Development | Computer Science @ MacEwan University
 
+[Portfolio](https://ved-cmpt.github.io) · [LinkedIn](https://linkedin.com/in/ved-cmpt) · [Email](mailto:vedcmpt@gmail.com)
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedcmpt@gmail.com) 
+## About
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
----
-[![](https://visitcount.itsvg.in/api?id=ved-cmpt&icon=0&color=0)](https://visitcount.itsvg.in)
+Computer Science student with hands-on experience in Python, C#, SQL, REST APIs, AI integration, and full-stack development.
+I build software and research workflows using the Gemini API, machine learning, and Python automation.
+I'm passionate about AI agents, microservices, and responsible AI-powered solutions.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Currently
+
+- **Vice President**, MacEwan AI Alliance
+- **Research Assistant**, World Bank Economic & Governance Data Research
+- **Research Assistant**, Product Recall & Consumer Safety Research
+
+## Featured projects
+
+**Duck Duck Defer:** Award-winning, full-stack deferred exam management app with Gemini API integration, built by a five-member Agile/Scrum team.
+<br>*Kotlin, Jetpack Compose, Node.js, Firebase, Gemini API, JUnit*
+
+**IknowServiceAI:** Full-stack AI agent that automates service request classification, with human-in-the-loop approvals and audit logging.
+<br>*Python, FastAPI, React, PostgreSQL, Gemini API, Docker, pytest*
+
+**Movie Rental DB:** Database-driven application for rental processing, inventory management, and transaction tracking.
+<br>*C#, .NET, SQL, Windows Forms*
+
+## Tech stack
+
+**Languages**
+<br>![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791)
+
+**Frameworks**
+<br>![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+
+**AI & data**
+<br>![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?logo=googlegemini&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-B8860B) ![Tableau](https://img.shields.io/badge/Tableau-1F4E79)
+
+**Cloud & tools**
+<br>![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
